@@ -37,4 +37,10 @@ In **T-CST**, it arises naturally from the **entanglement of conscious perceptio
 
 ---
 
+## Author  
+
+**Ahmad Fraz Yusufi**  
+📧 Email: [frazyusufi@gmail.com](mailto:frazyusufi@gmail.com)  
+🔗 ORCID: [0009-0009-5348-6300](https://orcid.org/0009-0009-5348-6300)  
+
 📖 *Part of the T-CST (Triangular-Coupled String Theory) project.*  
